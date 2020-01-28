@@ -1,0 +1,8 @@
+prefix=/home/lex/nubot_ws/install
+
+Name: trail
+Description: Description of trail
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/lex/nubot_ws/install/lib 
+Requires: 

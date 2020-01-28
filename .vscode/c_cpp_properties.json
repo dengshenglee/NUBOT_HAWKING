@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/lex/nubot_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/lex/nubot_ws/src/calibration_util/include",
+        "/home/lex/nubot_ws/src/nubot/front_vision/include",
+        "/home/lex/nubot_ws/src/camera_driver/tiscamera/gscam/include",
+        "/home/lex/nubot_ws/src/camera_driver/camera_umd/jpeg_streamer/include",
+        "/home/lex/nubot_ws/src/localization_gui/include",
+        "/home/lex/nubot_ws/src/nubot/nubot_control/include",
+        "/home/lex/nubot_ws/src/nubot/nubot_hwcontroller/include",
+        "/home/lex/nubot_ws/src/nubot/omni_vision/include",
+        "/home/lex/nubot_ws/src/realtime_tools/include",
+        "/home/lex/nubot_ws/src/nubot/simulation_interface/include",
+        "/home/lex/nubot_ws/src/camera_driver/camera_umd/uvc_camera/include",
+        "/home/lex/nubot_ws/src/nubot/world_model/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}

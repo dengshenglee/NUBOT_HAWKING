@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~x_offset" : \b [int] X offset of the region of interest. min: 0, default: 89, max: 640
+- \b "~y_offset" : \b [int] Y offset of the region of interest. min: 0, default: 7, max: 480
+- \b "~width" : \b [int] Width of the region of interest (0 for automatic). min: 0, default: 481, max: 640
+- \b "~height" : \b [int] Height of the region of interest (0 for automatic). min: 0, default: 480, max: 480
+

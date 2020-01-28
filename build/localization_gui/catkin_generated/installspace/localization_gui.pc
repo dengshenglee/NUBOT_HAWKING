@@ -1,0 +1,8 @@
+prefix=/home/lex/nubot_ws/install
+
+Name: localization_gui
+Description: Description of localization_gui
+Version: 0.0.0
+Cflags: -I/home/lex/nubot_ws/install/include
+Libs: -L/home/lex/nubot_ws/install/lib 
+Requires: 
